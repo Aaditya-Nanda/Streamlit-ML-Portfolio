@@ -2,7 +2,7 @@
 
 A simple machine learning web application that predicts house prices based on their size. This project is part of the [Streamlit-ML-Portfolio](https://github.com/Aaditya-Nanda/Streamlit-ML-Portfolio).
 
-!(https://i.imgur.com/YOUR_IMAGE_URL.png) ## Description
+## Description
 
 This application provides a hands-on demonstration of a complete, albeit simple, machine learning workflow. It features an interactive user interface built with **Streamlit** where users can input the size of a house and receive an estimated price prediction from a trained **Linear Regression** model.
 
@@ -45,4 +45,5 @@ python -m venv venv
 pip install -r requirements.txt
 
 # Run the Streamlit app
+
 streamlit run app1.py
