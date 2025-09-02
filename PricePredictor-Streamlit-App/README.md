@@ -31,20 +31,28 @@ To run this application on your local machine, please follow these steps:
 ```bash
 git clone [https://github.com/Aaditya-Nanda/Streamlit-ML-Portfolio.git](https://github.com/Aaditya-Nanda/Streamlit-ML-Portfolio.git)
 cd Streamlit-ML-Portfolio/PricePredictor-Streamlit-App
-
+```
 # Create a virtual environment
+```
 python -m venv venv
+```
 
 # Activate the environment (use the command for your OS)
 # On Windows:
+```
 .\venv\Scripts\activate
+```
 # On macOS/Linux:
+```
 # source venv/bin/activate
-
+```
 # Install the required packages
+```
 pip install -r requirements.txt
-
+```
 # Run the Streamlit app
-
+```
 streamlit run app.py
+```
+
 
